@@ -19,5 +19,5 @@
 
 </p>  
 
-                                                                                                      
+![miguelpalospou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true)
 
