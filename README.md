@@ -16,10 +16,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
-
-</p>  
-
+</p> 
+<br/><br/>
 <p align="center">
 ![miguelpalospou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true)
-</p>
 
+</p> 
