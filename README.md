@@ -19,5 +19,7 @@
 
 </p>  
 
-<p align="center">![miguelpalospou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true)</p>  
+<p align="center">!
+[miguelpalospou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true)
+</p>  
 
