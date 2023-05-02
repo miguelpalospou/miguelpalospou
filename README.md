@@ -8,7 +8,7 @@
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/miguelpalospou/ "
+    link = "//linkedin.com/in/miguelpalospou"
 
 
 
