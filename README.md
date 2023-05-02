@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub profile!
+### Hi there 👋, my name is Miguel Palos. Welcome to my GitHub profile!
 
 
 - 🔭 I’m an operations engineer with experience working in large fortune 500 companies and startup companies.
