@@ -19,6 +19,5 @@
 </p> 
 <br/><br/>
 <p align="center">
-![miguelpalospou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true)
-
-</p> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true" alt="miguelpalospou's Streak">
+</p>
