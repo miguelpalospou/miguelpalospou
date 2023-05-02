@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Miguel Palos. Welcome to my GitHub profile!
 
 
-- 🔭 I’m an operations engineer with experience working in large fortune 500 companies and startup companies.
+- 🔭 I’m an operations engineer with experience working in large fortune 500 companies and early stage startup companies.
 - 🎓 Currently pursuing a full-time Data Analytics Bootcamp at Iron Hack.
 - 🔎 Open to new opportunities within the DA/BI field.
 
