@@ -1,3 +1,12 @@
+<p align=”center”>
+
+  ![navy](https://user-images.githubusercontent.com/128624198/235659041-d8a8d30d-5fe7-4a65-861c-78b187acae61.png)
+
+
+</p>
+
+
+
 # <p align="center">Hi there 👋, my name is Miguel Palos. </p>
 ## <p align="center"> I'm an engineer, Data Analyst and Career Coach </p>
 
