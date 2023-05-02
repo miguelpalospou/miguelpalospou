@@ -5,10 +5,11 @@
 - 🎓 Currently pursuing a full-time Data Analytics Bootcamp at Iron Hack.
 - 🔎 Open to new opportunities within the DA/BI field.
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/miguelpalospou"
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/miguelpalospou/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
 
 
 
