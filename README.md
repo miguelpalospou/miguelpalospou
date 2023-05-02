@@ -44,10 +44,11 @@
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white"/>
   
   
-  Get in touch
-📫 How to reach me: miguelpalospou@gmail.com or LinkedIn
-🔭 I'm currently pursuing the full-time Data Analytics Bootcamp at Ironhack. Working as a freelance career coach at Wonsulting.
-💬 Always down for a coffe or a call to get to know each other!
+  Get in touch:
+  <br/><br/>
+* 📫 How to reach me: miguelpalospou@gmail.com or LinkedIn
+* 🔭 I'm currently pursuing the full-time Data Analytics Bootcamp at Ironhack. Working as a freelance career coach at Wonsulting.
+* 💬 Always down for a coffe or a call to get to know each other!
   
   
   
