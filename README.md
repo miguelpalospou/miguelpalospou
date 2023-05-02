@@ -9,6 +9,9 @@
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/miguelpalospou/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+![image]({https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white})
+
  
 <img src="{https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white}" />
