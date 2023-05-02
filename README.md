@@ -22,3 +22,39 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true" alt="miguelpalospou's Streak">
 </p>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  🛠   Some Tools I Use:
+  
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Integromat-2F8CBB.svg?style=for-the-badge&logo=Integromat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white"/>
+  
+  
+  Get in touch
+📫 How to reach me: miguelpalospou@gmail.com or LinkedIn
+🔭 I'm currently pursuing the full-time Data Analytics Bootcamp at Ironhack. Working as a freelance career coach at Wonsulting.
+💬 Always down for a coffe or a call to get to know each other!
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
