@@ -10,7 +10,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br/><br/>
+  <br/><br/>
 These are some of my projects. Check them out!
+  <br/><br/>
   
 [Scrapper:](https://github.com/miguelpalospou/scrapping-project): Built a data pipeline through web scrapping to enrich 4 public databases. The main goal of the project is to analyze correlations between electic cars, pollution rates and deaths caused by pollution wordwide.
 
