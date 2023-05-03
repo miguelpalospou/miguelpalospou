@@ -8,7 +8,7 @@
 
 
 # <p align="center">Hi there 👋, my name is Miguel Palos. </p>
-## <p align="center"> I'm an engineer, Data Analyst and Career Coach </p>
+## <p align="center"> I'm an Engineer, Data Analyst and Career Coach </p>
 
 
 - 🔭 I’m an operations engineer with experience working in large fortune 500 companies and early stage startup companies.
