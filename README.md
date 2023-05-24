@@ -37,7 +37,7 @@ These are some of my projects. Check them out!
 <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
 </p> 
-<br/><br/>
+
 <p align="center">
   <img src="https://www.codewars.com/users/miguelpalospou/badges/large">
   <br/><br/>
