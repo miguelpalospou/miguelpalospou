@@ -39,6 +39,7 @@ These are some of my projects. Check them out!
 </p> 
 <br/><br/>
 <p align="center">
+  <img src="https://www.codewars.com/users/miguelpalospou/badges/large">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true" alt="miguelpalospou's Streak">
 </p>
 
