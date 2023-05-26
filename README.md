@@ -27,6 +27,8 @@ These are some of my projects. Check them out!
 [Scrapper](https://github.com/miguelpalospou/scrapping-project): Built a data pipeline through web scrapping to enrich 4 public databases. The main goal of the project is to analyze correlations between electic cars, pollution rates and deaths caused by pollution wordwide.
   
 [GeoPandas](https://github.com/miguelpalospou/Project-III-Geo): Exploratory Data Analysis project of a MongoDB database and Foursquare API to find the best location to lunch a startup.
+  
+[Retail](https://github.com/miguelpalospou/project-IV-sql-tableau): A thorough analysis of sales, marketing and product departments of a retail company using Python, SQL & Tableau
  
 
 <br/><br/>
