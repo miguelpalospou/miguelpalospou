@@ -11,9 +11,9 @@
 ## <p align="center"> I'm an Engineer, Data Analyst and Career Coach </p>
 
 
-- 🔭 I’m an operations engineer with experience working in large fortune 500 companies and early stage startup companies.
-- 🎓 Currently pursuing a full-time Data Analytics Bootcamp at Iron Hack.
-- 🔎 Open to new opportunities within the DA/BI field.
+- 🔭 I’m a Data Analytics Engineer with experience working in large fortune 500 companies and early stage startup companies.
+- 🎓 I'm currently working on a NLP project, and recently released the last version of [Flip-flat](https://github.com/miguelpalospou/Final-project), an AI house price predictor, check it out!
+- 🔎 Open to opportunities for collaboration!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/miguelpalospou/">
