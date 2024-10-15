@@ -24,7 +24,9 @@
 These are some of my projects. Check them out!
   <br/><br/>
   
-[FLIP-FLAT](https://github.com/miguelpalospou/Final-project): An AI-based house price predictor built using ML models and deployed on Streamlit.
+[Building RAGs with LangChain :brain: ](https://github.com/miguelpalospou/RAG-Project): Content on how to build a Retrieval-Augmented Generation systems with the combination of LangChain + open-source or API-based (OpenAI) LLMs + vector databases. Deployed on Streamlit.
+  
+[FLIP-FLAT:panda_face:](https://github.com/miguelpalospou/Final-project): An AI-based house price predictor built using ML models and deployed on Streamlit.
   
 [Scrapper](https://github.com/miguelpalospou/scrapping-project): Built a data pipeline through web scrapping to enrich 4 public databases. The main goal of the project is to analyze correlations between electic cars, pollution rates and deaths caused by pollution wordwide.
   
