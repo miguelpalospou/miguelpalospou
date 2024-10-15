@@ -8,7 +8,7 @@
 
 
 # <p align="center">Hi there 👋, my name is Miguel Palos. </p>
-## <p align="center"> I'm an Engineer, Data Analyst and Career Coach </p>
+## <p align="center"> I'm a Data Scientist, currently working at SDG Group </p>
 
 
 - 🔭 I’m a Data Analytics Engineer with experience working in large fortune 500 companies and early stage startup companies.
