@@ -26,7 +26,7 @@ These are some of my projects. Check them out!
   
 [Building RAGs with LangChain :brain: ](https://github.com/miguelpalospou/RAG-Project): Content on how to build a Retrieval-Augmented Generation systems with the combination of LangChain + open-source or API-based (OpenAI) LLMs + vector databases. Deployed on Streamlit.
 
-[Building a chatbot for bulk company PDFs :boom: ]([https://github.com/miguelpalospou/RAG-Project](https://github.com/miguelpalospou/SmallPDF-)): Built an app that allows users to chat with thousands of PDFs at once to extract meaningful information. Built with LangChain + open-source or API-based (OpenAI) LLMs + vector databases. Deployed on Streamlit.
+[Building a chatbot for bulk company PDFs :boom: ](https://github.com/miguelpalospou/SmallPDF-): Built an app that allows users to chat with thousands of PDFs at once to extract meaningful information. Built with LangChain + open-source or API-based (OpenAI) LLMs + vector databases. Deployed on Streamlit.
   
 [FLIP-FLAT :panda_face:](https://github.com/miguelpalospou/Final-project): An AI-based house price predictor built using ML models and deployed on Streamlit.
   
