@@ -1,6 +1,6 @@
 <p align=”center”>
 
-  ![navy](https://user-images.githubusercontent.com/128624198/235659041-d8a8d30d-5fe7-4a65-861c-78b187acae61.png)
+  ![navy](https://private-user-images.githubusercontent.com/128624198/379428268-20bf5907-2362-41fd-9e76-53cf8f396dd3.png)
 
 
 </p>
