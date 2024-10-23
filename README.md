@@ -75,7 +75,7 @@ These are some of my projects. Check them out!
   <img src="https://img.shields.io/badge/Integromat-2F8CBB.svg?style=for-the-badge&logo=Integromat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white"/>
   
-    <br/><br/>
+    
   
   Get in touch:
 
