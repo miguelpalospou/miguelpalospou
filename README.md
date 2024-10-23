@@ -1,6 +1,6 @@
 <p align=”center”>
 
-  ![navy](https://private-user-images.githubusercontent.com/128624198/379428268-20bf5907-2362-41fd-9e76-53cf8f396dd3.png)
+  ![Miguel Palos Pou](https://github.com/user-attachments/assets/495d97ec-0201-4e00-905c-f0aa48f2f4ba)
 
 
 </p>
