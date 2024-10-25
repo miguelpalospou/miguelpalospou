@@ -8,10 +8,10 @@
 
 
 # <p align="center">Hi there 👋, my name is Miguel Palos. </p>
-## <p align="center"> I'm a Data Scientist, currently working at SDG Group </p>
+## <p align="center"> I'm a Data Scientist & Engineer, currently working at SDG Group </p>
 
 A few recent highlights about me:
-- 🛠 My current work focuses on LLMs projects using Langchain and AI assistants for startup companies.
+- 🛠 My current side-work focuses on LLMs projects using Langchain and AI assistants for startup companies.
 - 🔭 I’m a Data Scientist with experience working in large fortune 500 companies and early stage startup companies.
 - 🎓 I'm currently working on a NLP project, and recently released the last version of [Flip-flat](https://github.com/miguelpalospou/Final-project), an AI house price predictor, check it out!
 - 🔎 Open to opportunities for collaboration!
