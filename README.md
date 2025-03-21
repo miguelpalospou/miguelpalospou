@@ -24,6 +24,8 @@ A few recent highlights about me:
   <br/><br/>
 These are some of my projects. Check them out!
   <br/><br/>
+
+[New:fire: Session-based-Recommender-Systems-using-Graph-Neural-Networks :brain: ]([https://github.com/miguelpalospou/RAG-Project](https://github.com/miguelpalospou/Session-based-Recommender-Systems-using-Graph-Neural-Networks)): This project aims to explore and apply deep learning architectures for Session-Based Recommender Systems using PyTorch PyGraph and Tensorboard. Results show a clear improvement over the current state-of-the-art architectures, thanks to our custom attentional aggregation architecture.
   
 [Building RAGs with LangChain :brain: ](https://github.com/miguelpalospou/RAG-Project): Content on how to build a Retrieval-Augmented Generation systems with the combination of LangChain + open-source or API-based (OpenAI) LLMs + vector databases. Deployed on Streamlit.
 
