@@ -8,7 +8,7 @@
 
 
 # <p align="center">Hi there 👋, my name is Miguel Palos. </p>
-## <p align="center"> I'm a Data Scientist & Engineer, currently working at SDG Group </p>
+## <p align="center"> I'm a Data Scientist & Engineer, currently working for BBVA </p>
 
 A few recent highlights about me:
 - 🛠 My current side-work focuses on LLMs projects using Langchain and AI assistants for startup companies.
